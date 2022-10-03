@@ -1,5 +1,7 @@
 # Tugas-PBO
 Dokumentasi Instalasi Tools
+
+
 <> Langkah pertama kita donwload wsl dan ubuntu 20.04 di Windows Powershell dengan menginputkan "wsl --install" dan "wsl --install -d Ubuntu 20.04"
 ![powershell](https://user-images.githubusercontent.com/114232617/193503129-0bd31a6b-6b6c-4a5a-ba53-555d8cb66e63.png)
 ![install ubuntu](https://user-images.githubusercontent.com/114232617/193503157-5c7717ee-4368-4651-bc5e-4515ddf17bb3.png)
